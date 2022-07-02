@@ -1,1 +1,6 @@
-Arrays
+![Train](https://user-images.githubusercontent.com/73018624/176996058-22bcdd27-e8ce-48b7-b204-67093769ac28.jpg)
+![Common Elements](https://user-images.githubusercontent.com/73018624/176996062-db34d64e-197d-4422-9f00-3315d014c159.jpg)
+![Zig-Zag Arrays](https://user-images.githubusercontent.com/73018624/176996069-29e3d282-065c-44c2-be76-2b271055f21d.jpg)
+![4-5](https://user-images.githubusercontent.com/73018624/176996072-e8f10b07-b942-4152-bbb7-6ece94d22418.jpg)
+![6-7](https://user-images.githubusercontent.com/73018624/176996074-bf8c88a4-e9c9-416e-bd4a-a600b89026d1.jpg)
+![8](https://user-images.githubusercontent.com/73018624/176996075-1a0ba24d-fc73-4b91-9307-ce4f06cba778.jpg)
