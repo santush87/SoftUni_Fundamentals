@@ -82,7 +82,7 @@
 <p>   o 	Days – integer in range [1…31]</p>
 <p>   o 	Capsules count - integer in range [0…2000]</p>
 <p>The input will be in the described format, there is no need to check it explicitly.</p>
-<p>Output</p>
+<h4>Output</h4>
 <p>The output should consist of N + 1 lines. For each order you must print a single line in the following format:</p>
 <p>•	"The price for the coffee is: ${price}"</p>
 <p>On the last line you need to print the total price in the following format:</p>
